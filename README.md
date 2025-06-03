@@ -9,7 +9,7 @@ This repository provides downloadable SDKs for integrating CatalystPay into your
 ### 🤖 Android SDK
 
 - **Download:** [Android_Frameworks_7.1.0.zip](https://github.com/Catalystpay-LTD/gateway-mobile-sdks/raw/main/android/Android_Frameworks_7.1.0.zip)
-- 
+
 ### 🍎 iOS SDK
 
 - **Download:** [iOS_Frameworks_7.1.0.zip](https://github.com/Catalystpay-LTD/gateway-mobile-sdks/raw/main/ios/iOS_Frameworks_7.1.0.zip)
