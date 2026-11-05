@@ -10,7 +10,7 @@ This repository provides downloadable SDKs for integrating CatalystPay into your
 - **Release Notes:** [Android SDK Release Notes](https://docs.oppwa.com/integrations/mobile-sdk/release-notes-android)
 
 ### 🍎 iOS SDK
-- **Download:** [iOS_Frameworks_8.1.3.zip](https://github.com/Catalystpay-LTD/gateway-mobile-sdks/releases/download/8.1.3/iOS_Frameworks_8.1.3.zip)
+- **Download:** [iOS_Frameworks_8.1.4.zip](https://github.com/Catalystpay-LTD/gateway-mobile-sdks/releases/download/8.1.4/iOS_Frameworks_8.1.4.zip)
 - **Release Notes:** [iOS SDK Release Notes](https://docs.oppwa.com/integrations/mobile-sdk/release-notes-ios)
 
 ---
